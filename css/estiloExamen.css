@@ -1,0 +1,146 @@
+
+/*------------Fila 1------------*/
+div[name=fila_1]{
+  background-color: #2d2f39;
+  height: 80px;
+  width: auto;
+  text-align: center;
+}
+
+div[name="SINGOLO"]{
+  font-size: 25px;
+  line-height: 6px;
+  color: #ffffff;
+  font-family: "Lato";
+  font-weight: 700;
+  text-align: left;
+  margin-top: 35px;
+
+}
+
+span[name="asterisco"]{
+  color: #f06c64;
+}
+
+div[name="HOME"]{
+  font-size: 12px;
+  line-height: 6px;
+  color: #f06c64;
+  font-family: "Lato";
+  font-weight: 700;
+  text-align: left;
+  margin-top: 35px;
+}
+
+div[name="SERVICES"]{
+  font-size: 12px;
+  line-height: 6px;
+  color: #f2f2f2;
+  font-family: "Lato";
+  font-weight: 700;
+  text-align: left;
+  margin-top: 35px;
+
+}
+
+/*------------Fila 2------------*/
+div[name=fila_2]{
+  height: 600px;
+  width: auto;
+  background-color: #f06c64;
+  padding-top: 30px;
+}
+
+div[name="Flechitas"]{
+  font-size: 70px;
+  color: #ca4549;
+  margin-top: 150px;
+}
+
+
+
+
+/*------------Fila 3----------*/
+div[name=fila_3]{
+  height: 800px;
+  width: auto;
+  background-color: #f2f2f2;
+}
+
+
+p[name="Our_Services"]{
+  font-size: 30px;
+  color: #666d89;
+  font-family: "Lato";
+  font-weight: 900;
+  text-align: left;
+  width: auto;
+  padding-top: 40px;
+
+}
+
+p[name="Texto"]{
+  height: 57px;
+  width: auto;
+  font-size: 18px;
+  line-height: 30px;
+  color: #767e9e;
+  font-family: "Lato";
+  font-weight: 300;
+  text-align: left;
+
+}
+
+p[name="Texto_Principal"]{
+  font-size: 18px;
+  line-height: 18px;
+  color: #666d89;
+  font-family: "Lato";
+  font-weight: 900;
+  text-align: left;
+
+}
+
+p[name="Texto_secundario"]{
+  width: 219px;
+  height: 128px;
+  font-size: 15px;
+  line-height: 30px;
+  color: #767e9e;
+  font-family: "Lato";
+  font-weight: 400;
+  text-align: justify;
+
+}
+
+div[name="iconos"]{
+  text-align: right;
+}
+
+/*--------------Fila 4 --------------*/
+div[name=fila_4]{
+
+  height: 870px;
+  width: auto;
+  background-color: #2d303a;
+  padding-top: 30px;
+}
+
+p[name="Portfolio"]{
+  font-size: 30px;
+  line-height: 18px;
+  color: #666d89;
+  font-family: "Lato";
+  font-weight: 900;
+  text-align: left;
+}
+
+button[name="boton"]{
+  font-size: 12px;
+  line-height: 22px;
+  color: #dedede;
+  font-family: "Lato";
+  font-weight: 400;
+  text-align: left;
+  border:1px #00650;
+}
